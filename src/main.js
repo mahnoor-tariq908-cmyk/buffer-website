@@ -1,4 +1,5 @@
-import './style.css'
+import './style.css';
+
 const menuBtn = document.getElementById("menuBtn");
 const mobileMenu = document.getElementById("mobileMenu");
 
